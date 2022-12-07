@@ -1,3 +1,3 @@
-﻿double numberA = 12;
-double numberB = 5;
+﻿double numberA = 120;
+double numberB = 12;
 Console.WriteLine(numberA / numberB);
